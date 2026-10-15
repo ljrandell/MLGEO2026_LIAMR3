@@ -30,3 +30,4 @@ README.md provides the baseline from which to clone this repository.
 - Run `pixi run smoke` before reporting any result, and show its last line.
 - Report the exact commands you ran and the commit hash they ran on.
 - If a check fails or a value cannot be fetched, say so; do not substitute an estimate.
+- Run all other `.py` and `.ipynb` files in the main repository `MLGEO2026_LIAMR3`, making note if any code within them raises errors. These are additional verification notebooks/files and are otherwise trivial.
